@@ -1,11 +1,12 @@
 {
-  "id": "./patio-taller-app-v3",
+  "id": "./?app=patio-v4",
   "name": "GEOLUB Patio / Taller",
   "short_name": "Patio GEOLUB",
+  "description": "Control operativo GEOLUB Patio / Taller",
   "start_url": "./?app=patio",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f4f7fb",
+  "background_color": "#081f45",
   "theme_color": "#081f45",
   "icons": [
     {
