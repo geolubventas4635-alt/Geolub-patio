@@ -1,5 +1,5 @@
 {
-  "id": "./patio-taller-app-v2",
+  "id": "./patio-taller-app-v3",
   "name": "GEOLUB Patio / Taller",
   "short_name": "Patio GEOLUB",
   "start_url": "./?app=patio",
@@ -10,9 +10,15 @@
   "icons": [
     {
       "src": "./geolub-patio-icon.png",
-      "sizes": "1536x1024",
+      "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "any"
+    },
+    {
+      "src": "./geolub-patio-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
